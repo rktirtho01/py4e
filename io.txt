@@ -1,5 +1,0 @@
-Hi, 
-My name is Rejaul Karim Tirtho. I am a java developer and I have experiace in full stack development.
-Now I am learning python for Machine learning. Because of it is getting populler day by day.
-
-I also know Android app development

@@ -11,6 +11,10 @@ for l in range(5):
     for m in range(l):
         print(l)
 counter = 0;
-while counter is not 3:
-    print(counter)
-    counter = int(input(counter))
+
+
+numbers = [5,6,4,64,25,256,235,74,7]
+
+print(max(numbers))
+print(min(numbers))
+print(sum(numbers)/len(numbers))

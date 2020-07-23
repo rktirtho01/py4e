@@ -20,4 +20,21 @@ scliced= names[0:2]
 print(scliced)
 
 names.extend(["Mahin", "kamal"])
+
 print(names)
+
+names.pop(len(names)-1)
+print(names)
+
+
+sentence = "I love my country"
+words = sentence.split()
+print(words)
+
+joinSentense = "I love my country, but everbody does not love."
+commaSeperator = joinSentense.split(',')
+print(commaSeperator)
+
+latters = list(sentence)
+
+print(latters)

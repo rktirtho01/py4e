@@ -44,3 +44,18 @@ domain, dom_type = url.split('.')
 
 print(domain)
 print(dom_type)
+
+d = {'a':10, 'b':1, 'c':22} 
+
+dicList = list(d.items()) # getItem() return a tuple list
+dicList.sort()
+print(dicList)
+
+sortedDic = list()
+for k ,v in d.items():
+    sortedDic.append((v,k))
+
+sortedDic.sort(reverse=True)
+
+for i in sortedDic:
+    print(i)

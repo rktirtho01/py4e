@@ -18,6 +18,5 @@ Python Basic course conducted by coursera
  
  ## Using Python to Access Web Data
 
-1. Regular Expression
+ 1. Regular Expression
 
->>>>>>> 388e8b998d2cef81a28bd1c193cb6f28c8816630

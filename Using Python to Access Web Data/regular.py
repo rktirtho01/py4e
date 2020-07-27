@@ -15,3 +15,11 @@ print(n)
 
 vowel = re.findall('[aeiou]', massage)
 print(vowel)
+
+print('===============================================')
+fHand1 = open("mbox-short.txt")
+
+for line in fHand1:
+    line = line.rstrip()
+    #print(re.findall("^From (\S+@\S+)", line))
+    print(re.findall("^From.*@([^ ]\S*)", line))

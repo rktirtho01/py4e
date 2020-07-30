@@ -1,6 +1,6 @@
 
 fHand = open("romeo.txt")
-
+"""Read data from text romeo.txt file. split all word from line and make a bar chart using dictionary"""
 wordChart = dict()
 for line in fHand:
     words = line.split()

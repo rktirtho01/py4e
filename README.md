@@ -2,9 +2,10 @@ Python for Everybody
 ====================
 Python Basic course conducted by coursera
 
- 1. Sequential Code
 
-=======
+
+
+## Basic Python
 
  1. Sequential Code
  2. Conditional Statements

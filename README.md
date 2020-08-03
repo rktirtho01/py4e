@@ -1,6 +1,6 @@
 Python for Everybody
 ====================
-Python Basic course conducted by coursera
+Python Basic course conducted by University of Machigan and  coursera
 
 
 

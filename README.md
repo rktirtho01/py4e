@@ -1,7 +1,7 @@
 Python for Everybody
 ====================
 Python Basic course conducted by coursera
-<<<<<<< HEAD
+
  1. Sequential Code
 
 =======
@@ -22,3 +22,4 @@ Python Basic course conducted by coursera
  2. Networking and Socket
  3. Program the Surf the Web
  
+ ## Using Database with python
